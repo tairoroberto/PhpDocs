@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhpDocs</string>
+    <string name="action_favorites">Favoritos</string>
+    <string name="title_activity_favorites_list">Favoritos</string>
+</resources>
