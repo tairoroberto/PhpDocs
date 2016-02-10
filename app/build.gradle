@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "br.com.trmasolucoes.droiddocs"
+        applicationId "br.com.trmasolucoes.phpdocs"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
